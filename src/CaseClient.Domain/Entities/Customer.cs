@@ -27,6 +27,7 @@ public class Customer : Entity, IAggregateRoot
     {
         CompanyName = companyName;
         CompanySize = companySize;
+        UpdatedAt = DateTime.UtcNow;
     }
 
     public void UpdateCompanySize(SizeCategory newSize)

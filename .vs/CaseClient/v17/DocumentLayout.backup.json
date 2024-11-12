@@ -1,0 +1,941 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\estudos\\CaseClient\\CaseClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\controllers\\customer\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\controllers\\customer\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\halpers\\cachehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\halpers\\cachehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\queries\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\queries\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\repositories\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\repositories\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\extensions\\initialdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\extensions\\initialdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\commands\\removecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\commands\\removecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\caseclient.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\caseclient.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\unityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\unityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\validations\\customervlidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\validations\\customervlidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\notifications\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\notifications\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\notifications\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\notifications\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\handler\\customerupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\handler\\customerupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\customercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\customercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\handler\\customerdeletedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\handler\\customerdeletedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\handler\\customercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\handler\\customercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\customerdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\customerdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\repositories\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\repositories\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\abstractions\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\abstractions\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\abstractions\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\abstractions\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\events\\customerupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\events\\customerupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\customercontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\customercontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\caseclient.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\caseclient.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\mappings\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\mappings\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\customercontext\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\customercontext\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\caseclient.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\caseclient.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\viewmodels\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\viewmodels\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\caseclient.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\caseclient.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DFCC002-28A9-486D-9268-C177EE415B32}|src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj|solutionrelative:src\\caseclient.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\caseclient.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\caseclient.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.data\\caseclient.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{261E7372-2EEB-4FCB-A71B-159B0BE95A66}|src\\CaseClient.Data\\CaseClient.Data.csproj|solutionrelative:src\\caseclient.data\\caseclient.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.domain\\caseclient.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54647B56-FD9B-4247-BC21-872B06BC1EA1}|src\\CaseClient.Domain\\CaseClient.Domain.csproj|solutionrelative:src\\caseclient.domain\\caseclient.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.application\\notifications\\abstractions\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8159D5-9A7C-4AA4-9DCC-F3A0BEA24313}|src\\CaseClient.Application\\CaseClient.Application.csproj|solutionrelative:src\\caseclient.application\\notifications\\abstractions\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|c:\\estudos\\caseclient\\caseclient\\src\\caseclient.core\\abstractions\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8DB4CA-255C-4CB6-9E94-923A8F8AD5B9}|src\\CaseClient.Core\\CaseClient.Core.csproj|solutionrelative:src\\caseclient.core\\abstractions\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheHelper.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Halpers\\CacheHelper.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Halpers\\CacheHelper.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Halpers\\CacheHelper.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Halpers\\CacheHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:51:30.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:05:18.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerCreatedEvent.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\CustomerCreatedEvent.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerCreatedEvent.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\CustomerCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:11:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerUpdatedEventHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerUpdatedEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\Handler\\CustomerUpdatedEventHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerUpdatedEventHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\Handler\\CustomerUpdatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:09:18.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\CustomerUpdatedEvent.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerUpdatedEvent.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\CustomerUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:08:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerDeletedEvent.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerDeletedEvent.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\CustomerDeletedEvent.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\CustomerDeletedEvent.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\CustomerDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:08:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDeletedEventHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerDeletedEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\Handler\\CustomerDeletedEventHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerDeletedEventHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\Handler\\CustomerDeletedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:04:11.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerCreatedEventHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Events\\Handler\\CustomerCreatedEventHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Events\\Handler\\CustomerCreatedEventHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Events\\Handler\\CustomerCreatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:01:41.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IEvent.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\IEvent.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IEvent.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:48:33.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\IEventHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IEventHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\IEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:42:01.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Repositories\\CustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\Repositories\\CustomerWriteRepository.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Repositories\\CustomerWriteRepository.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\Repositories\\CustomerWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:23:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Repositories\\CustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\Repositories\\CustomerReadRepository.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Repositories\\CustomerReadRepository.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\Repositories\\CustomerReadRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vyUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:20:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Abstractions\\ICustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Abstractions\\ICustomerReadRepository.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Abstractions\\ICustomerReadRepository.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Abstractions\\ICustomerReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:19:48.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Abstractions\\ICustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Abstractions\\ICustomerWriteRepository.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Abstractions\\ICustomerWriteRepository.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Abstractions\\ICustomerWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:19:15.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CaseClient.WebAPI.http",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.http",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.http",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.http",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-11T20:51:45.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InitialDataExtension.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Extensions\\InitialDataExtension.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Extensions\\InitialDataExtension.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Extensions\\InitialDataExtension.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Extensions\\InitialDataExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:29:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CaseClient.WebAPI",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T20:08:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\appsettings.Production.json",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.Production.json",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T19:24:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T19:20:26.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Controllers\\Customer\\CustomersController.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Controllers\\Customer\\CustomersController.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Controllers\\Customer\\CustomersController.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Controllers\\Customer\\CustomersController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:03:09.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerVlidator.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Validations\\CustomerVlidator.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Validations\\CustomerVlidator.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Validations\\CustomerVlidator.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Validations\\CustomerVlidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:53:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Configuration\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Configuration\\SwaggerConfig.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Configuration\\SwaggerConfig.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Configuration\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:50:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CaseClient.WebAPI.csproj",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\CaseClient.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T18:49:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CaseClient.Core.csproj",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\CaseClient.Core.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\CaseClient.Core.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\CaseClient.Core.csproj",
+              "RelativeToolTip": "src\\CaseClient.Core\\CaseClient.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T18:49:46.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CaseClient.Domain.csproj",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\CaseClient.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\CaseClient.Domain.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\CaseClient.Domain.csproj",
+              "RelativeToolTip": "src\\CaseClient.Domain\\CaseClient.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T18:49:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CaseClient.Application.csproj",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\CaseClient.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\CaseClient.Application.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\CaseClient.Application.csproj",
+              "RelativeToolTip": "src\\CaseClient.Application\\CaseClient.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T18:49:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Configuration\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Configuration\\DependencyInjection.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Configuration\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Configuration\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:44:41.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\Program.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:44:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CaseClient.Data.csproj",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CaseClient.Data.csproj",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\CaseClient.Data.csproj",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CaseClient.Data.csproj",
+              "RelativeToolTip": "src\\CaseClient.Data\\CaseClient.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T18:40:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:39:53.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CaseClient.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\CaseClient.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:39:12.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllCustomersQuery.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Queries\\GetAllCustomersQuery.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Queries\\GetAllCustomersQuery.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Queries\\GetAllCustomersQuery.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Queries\\GetAllCustomersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:18:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:15:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Abstractions\\INotifier.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Notifications\\Abstractions\\INotifier.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Abstractions\\INotifier.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Notifications\\Abstractions\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notifier.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Notifier.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Notifications\\Notifier.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Notifier.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Notifications\\Notifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:22.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Notification.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Notifications\\Notification.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Notifications\\Notification.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Notifications\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerMapper.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Mappers\\CustomerMapper.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Mappers\\CustomerMapper.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Mappers\\CustomerMapper.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Mappers\\CustomerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:07:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\ViewModels\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\ViewModels\\CustomerRequest.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\ViewModels\\CustomerRequest.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\ViewModels\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:06:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:04:30.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemoveCustomerCommand.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\RemoveCustomerCommand.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Commands\\RemoveCustomerCommand.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\RemoveCustomerCommand.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Commands\\RemoveCustomerCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:01:29.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Commands\\UpdateCustomerCommand.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Commands\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:57:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Application\\Commands\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Application\\Commands\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "src\\CaseClient.Application\\Commands\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:53:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Pagination.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Pagination.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Pagination.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:36:03.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerMapping.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Mappings\\CustomerMapping.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\Mappings\\CustomerMapping.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\Mappings\\CustomerMapping.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\Mappings\\CustomerMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:30:37.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CustomerContext\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\CustomerContext\\MongoDbContext.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CustomerContext\\MongoDbContext.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\CustomerContext\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:27:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PostgreSqlDbContext.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CustomerContext\\PostgreSqlDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\CustomerContext\\PostgreSqlDbContext.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\CustomerContext\\PostgreSqlDbContext.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\CustomerContext\\PostgreSqlDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:26:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnityOfWork.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\UnityOfWork.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Data\\UnityOfWork.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Data\\UnityOfWork.cs",
+              "RelativeToolTip": "src\\CaseClient.Data\\UnityOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:21:06.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "src\\CaseClient.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\IAggregateRoot.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IAggregateRoot.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:54:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Data\\IRepository.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Data\\IRepository.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:53:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:53:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\IQueryHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IQueryHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IQuery.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\IQuery.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\IQuery.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:38.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\ICommandHandler.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:45:52.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\ICommand.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\ICommand.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:45:42.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\CaseClient.Core\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\estudos\\CaseClient\\CaseClient\\src\\CaseClient.Core\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "src\\CaseClient.Core\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:45:05.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

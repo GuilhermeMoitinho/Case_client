@@ -10,13 +10,9 @@ public abstract class MainController : ControllerBase
 
     protected MainController(INotifier notifier) => _notifier = notifier;
         
-    protected bool OperationIsValid()
-    {
-        return !_notifier.HasNotification();
-    }
+    protected bool OperationIsValid() => !_notifier.HasNotification();
+         
 
-    protected IEnumerable<string> ReturnErrors()
-    {
-        return  _notifier.GetNotification().Select(n => n.Message);
-    }
+    protected IEnumerable<string> ReturnErrors() => _notifier.GetNotification().Select(n => n.Message);
+          
 }

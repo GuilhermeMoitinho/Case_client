@@ -8,12 +8,19 @@
       </div>
       <div class="form-group">
         <label for="companySize">Tamanho da Empresa</label>
-        <input v-model="companySize" type="text" id="companySize" class="form-control" required />
+        <select v-model="companySize" id="companySize" class="form-control" required>
+          <option disabled value="">Selecione o Tamanho</option>
+          <option value="Small">Pequena</option>
+          <option value="Medium">Média</option>
+          <option value="Large">Grande</option>
+        </select>
       </div>
       <button type="submit" class="btn btn-primary">Salvar Alterações</button>
+      <router-link to="/" class="btn btn-secondary">Cancelar</router-link>
     </form>
   </div>
 </template>
+
 
 <script lang="ts">
 import { defineComponent, ref, onMounted } from 'vue'
@@ -45,13 +52,11 @@ export default defineComponent({
     const editCustomer = async () => {
       const id = route.params.id as string
       try {
-        await CustomerService.editCustomer(id, {
-          request: {
-            companyName: companyName.value,
-            companySize: companySize.value,
-          },
-        })
-        router.push('/customers')
+        await CustomerService.updateCustomer(id,
+          companyName.value,
+          companySize.value,
+        )
+        router.push('/')
       } catch (error) {
         console.error('Error updating customer:', error)
       }

@@ -1,37 +1,26 @@
 <template>
-  <div class="customer-list">
-    <h1>Customers</h1>
-
+  <div class="container customer-list">
+    <h1>Lista de Clientes</h1>
     <div class="actions">
-      <router-link to="/create" class="btn btn-primary">Create New Customer</router-link>
+      <router-link to="/create" class="btn btn-primary">Criar Novo Cliente</router-link>
     </div>
-
     <div v-if="customers.length">
       <ul>
         <li v-for="customer in customers" :key="customer.id" class="customer-item">
-          <div class="customer-details">
-            <router-link
-              :to="{ name: 'customerDetail', params: { id: customer.id } }"
-              class="customer-name"
-            >
-              {{ customer.companyName }} ({{ customer.companySize }})
-            </router-link>
-            <router-link
-              :to="{ name: 'edit-customer', params: { id: customer.id } }"
-              class="btn btn-warning btn-sm"
-            >
-              Edit
-            </router-link>
-          </div>
+          <router-link :to="{ name: 'customerDetail', params: { id: customer.id } }" class="customer-name">
+            {{ customer.companyName }} ({{ customer.companySize }})
+          </router-link>
+          <router-link :to="{ name: 'edit-customer', params: { id: customer.id } }" class="btn btn-warning">Editar</router-link>
+          <router-link :to="{ name: 'delete-customer', params: { id: customer.id } }" class="btn btn-danger">Deletar</router-link>
         </li>
       </ul>
     </div>
-
     <div v-else>
-      <p>No customers found.</p>
+      <p>Nenhum cliente encontrado.</p>
     </div>
   </div>
 </template>
+
 
 <script lang="ts">
 import { defineComponent, onMounted, ref } from 'vue'

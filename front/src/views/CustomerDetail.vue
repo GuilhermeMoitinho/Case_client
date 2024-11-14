@@ -1,10 +1,11 @@
 <template>
-  <div class="customer-detail" v-if="customer">
-    <h1>{{ customer.companyName }} Details</h1>
-    <p><strong>Company Size:</strong> {{ customer.companySize }}</p>
-    <router-link to="/">Back to list</router-link>
+  <div class="container customer-detail">
+    <h1>Detalhes de {{ customer.companyName }}</h1>
+    <p><strong>Tamanho da Empresa:</strong> {{ customer.companySize }}</p>
+    <router-link to="/" class="btn btn-secondary">Voltar a Lista</router-link>
   </div>
 </template>
+
 
 <script lang="ts">
 import { defineComponent, onMounted, ref } from 'vue'

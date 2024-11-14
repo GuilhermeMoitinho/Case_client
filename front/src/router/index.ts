@@ -3,6 +3,7 @@ import CustomersList from '@/views/CustomerList.vue'
 import CreateCustomer from '@/views/CreateCustomer.vue'
 import EditCustomer from '@/views/EditCustomer.vue'
 import CustomerDetail from '@/views/CustomerDetail.vue'
+import DeleteCustomer from '@/views/DeleteCustomer.vue'
 
 const routes = [
   {
@@ -25,6 +26,12 @@ const routes = [
     path: '/customer/:id/edit',
     name: 'edit-customer',
     component: EditCustomer,
+    props: true,
+  },
+  {
+    path: '/customer/:id/delete',
+    name: 'delete-customer',
+    component: DeleteCustomer,
     props: true,
   },
 ]

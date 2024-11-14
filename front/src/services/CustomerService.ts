@@ -15,7 +15,11 @@ export const CustomerService = {
       console.log(response)
       return response.data.data
     } catch (error) {
-      throw new Error(`Failed to fetch customers: ${error.message}`)
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch customers: ${error.message}`)
+      } else {
+        throw new Error('Failed to fetch customers: Unknown error')
+      }
     }
   },
 
@@ -25,7 +29,11 @@ export const CustomerService = {
       console.log(response)
       return response.data.data
     } catch (error) {
-      throw new Error(`Failed to fetch customer with ID ${id}: ${error.message}`)
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch customers: ${error.message}`)
+      } else {
+        throw new Error('Failed to fetch customers: Unknown error')
+      }
     }
   },
 
@@ -39,7 +47,11 @@ export const CustomerService = {
       console.log(response)
       return response.data.data
     } catch (error) {
-      throw new Error(`Failed to create customer: ${error.message}`)
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch customers: ${error.message}`)
+      } else {
+        throw new Error('Failed to fetch customers: Unknown error')
+      }
     }
   },
 
@@ -55,7 +67,11 @@ export const CustomerService = {
       })
       return response.data.data
     } catch (error) {
-      throw new Error(`Failed to update customer with ID ${id}: ${error.message}`)
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch customers: ${error.message}`)
+      } else {
+        throw new Error('Failed to fetch customers: Unknown error')
+      }
     }
   },
 
@@ -63,7 +79,11 @@ export const CustomerService = {
     try {
       await axios.delete('http://localhost:8080/api/v1/customers/' + id)
     } catch (error) {
-      throw new Error(`Failed to delete customer with ID ${id}: ${error.message}`)
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch customers: ${error.message}`)
+      } else {
+        throw new Error('Failed to fetch customers: Unknown error')
+      }
     }
   },
 }

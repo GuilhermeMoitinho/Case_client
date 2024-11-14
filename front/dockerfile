@@ -1,11 +1,25 @@
 FROM node:lts-alpine
 
+# Limpa o cache do npm antes de instalar as dependências
+RUN npm cache clean --force
+
+# Define o diretório de trabalho
 WORKDIR /app
 
+# Copia os arquivos package.json e package-lock.json
 COPY package*.json ./
 
+# Instala as dependências do projeto
 RUN npm install
 
+# Copia o restante dos arquivos e pastas para o diretório de trabalho
 COPY . .
 
+# Compila a aplicação
+RUN npm run build
+
+EXPOSE 5173
+
+# Inicia o servidor HTTP
 CMD ["npm", "run", "dev"]
+

@@ -20,7 +20,7 @@ public static class CacheHelper
         {
             var cacheOptions = new MemoryCacheEntryOptions
             {
-                AbsoluteExpirationRelativeToNow = expirationTime ?? TimeSpan.FromMinutes(1)
+                AbsoluteExpirationRelativeToNow = expirationTime ?? TimeSpan.FromSeconds(5)
             };
 
             cache.Set(key, data, cacheOptions);

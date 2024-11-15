@@ -16,7 +16,7 @@ internal static class SwaggerConfig
                     Version = "v1",
                     Description =
                         """
-                        OpenAPI specification for testing and consuming Case localiza
+                        OpenAPI specification for testing and consuming Case Client
 
                         ## Resources
 

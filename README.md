@@ -38,10 +38,10 @@ O backend da aplicação é responsável pela lógica de negócio e pela exposi�
 - Arquitetura completa com separação de responsabilidades, SOLID e Clean Code.
 - Domain Driven Design (Camadas e Padrão de Modelo de Domínio).
 - Domain Events
-- Domain Notification
 - Domain Validations
 - CQRS (Imediate Consistency)
 - Unit of Work
+- Notifications
 - Repository
 
 ## Tecnologias
